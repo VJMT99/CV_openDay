@@ -1,0 +1,91 @@
+header{
+    background-color: cyan;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: grey;
+    position: static;
+  }
+  
+  #a{
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color on hover */
+  #a:hover {
+    background-color: #555;
+    color: white;
+  }
+  #b{
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color on hover */
+  #b:hover {
+    background-color: #555;
+    color: white;
+  }
+  #c{
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color on hover */
+  #c:hover {
+    background-color: #555;
+    color: white;
+  }
+  #center{
+      height: 200px;
+      position: relative;
+      top: 0px;
+      left: 250px;
+  }
+  #right{
+    height: 200px;
+    position: relative;
+    top: 0px;
+    left: 450px;
+  }
+  #left{
+    height: 200px;
+  position: relative;
+  top: 0px;
+  left: 100px;
+}
+#barra2{
+    position: relative;
+    left: 1415px;
+    top:  -120px;
+}
+#vertical{
+    border-left:thick solid black;
+}
+#tabla2{
+    position: relative;
+    left: 875px;
+    top:  0px;
+}
+#intro{
+    position: relative;
+    left: 2015px;
+}
+#exp{
+    position: relative;
+    left: 765px;
+}
+#cont{
+    position: relative;
+    left: 850px;
+}
